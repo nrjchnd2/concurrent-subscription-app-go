@@ -1,0 +1,4 @@
+{{define "body"}}
+    Thanks for registering. Please click on the below link to activate
+    {{.message}}Activate your account
+{{end}}
